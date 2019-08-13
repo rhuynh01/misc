@@ -1,0 +1,27 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "misc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon misc2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuynh01/misc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhuynh01/misc/issues"
+  },
+  "homepage": "https://github.com/rhuynh01/misc#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
